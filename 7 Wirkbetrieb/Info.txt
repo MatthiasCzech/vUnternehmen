@@ -1,0 +1,6 @@
+Hier soll das Wirkprodukt dokumentiert werden
+- Installationsanleitungen
+- Benutzerhandbuch
+- Einführungsplan
+- HowTos (Wie werden neue Module eingebunden)
+- ...

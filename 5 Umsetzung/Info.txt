@@ -1,0 +1,2 @@
+Hier soll die Umsetzung abgelegt und dokumentiert werden
+- evtl. ausgelagert auf Ilias, falls es eine Größenbeschränkung bei Github gibt

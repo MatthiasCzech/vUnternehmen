@@ -1,0 +1,6 @@
+Hier sollen alle Analysergebnisse rein.
+z.B. 
+- Brainstorming ergebnisse
+- erste Modelle,
+- Opensource Software, die für die Lösung in Frag kommen könnte
+- ...

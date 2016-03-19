@@ -1,0 +1,4 @@
+Hier soll das Pflichtenheft und alles was dazu gehört abgelegt weren
+- evtl. verschiedene Arbeitsfassungen je Teilteam
+- UML Diagramme
+- ...
